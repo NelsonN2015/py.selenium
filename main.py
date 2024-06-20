@@ -15,4 +15,3 @@ url = 'https://esaj.tjsp.jus.br/esaj/portal.do?servico=190090'
 driver.get (url)
 
 driver.find_elements(By.TAG_NAME, 'a')
-
